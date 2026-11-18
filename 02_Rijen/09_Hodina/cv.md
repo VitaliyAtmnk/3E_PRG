@@ -102,3 +102,14 @@ public int FindPoisonedDuration(int[] timeSeries, int duration) {
         
 }
 ```
+
+Pokud si chcete zkontrolovat správnost svého řešení
+
+#### Příklad 1
+- https://leetcode.com/problems/contains-duplicate/?envType=problem-list-v2&envId=array
+
+#### Příklad 2
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=problem-list-v2&envId=array
+
+#### Příklad 3
+- https://leetcode.com/problems/teemo-attacking/description/?envType=problem-list-v2&envId=array

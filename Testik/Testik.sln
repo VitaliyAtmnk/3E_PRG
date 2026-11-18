@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Testik", "Testik\Testik.fsproj", "{579BCA36-FAAE-4B35-8BF1-D4E8141BC030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579BCA36-FAAE-4B35-8BF1-D4E8141BC030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579BCA36-FAAE-4B35-8BF1-D4E8141BC030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579BCA36-FAAE-4B35-8BF1-D4E8141BC030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579BCA36-FAAE-4B35-8BF1-D4E8141BC030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D2C48CC-9C67-4775-8A6F-80752889158B}
+	EndGlobalSection
+EndGlobal
